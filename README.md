@@ -1,3 +1,3 @@
 # EloBuddy
 Brutal addons for EB
-EB
+For Korean
